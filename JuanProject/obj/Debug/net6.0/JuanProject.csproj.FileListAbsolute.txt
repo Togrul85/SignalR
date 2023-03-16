@@ -802,3 +802,4 @@ C:\Users\Togrul\Desktop\Tasklar\lab1\JuanTemplate\JuanProject\obj\Debug\net6.0\r
 C:\Users\Togrul\Desktop\Tasklar\lab1\JuanTemplate\JuanProject\obj\Debug\net6.0\JuanProject.pdb
 C:\Users\Togrul\Desktop\Tasklar\lab1\JuanTemplate\JuanProject\obj\Debug\net6.0\JuanProject.genruntimeconfig.cache
 C:\Users\Togrul\Desktop\Tasklar\lab1\JuanTemplate\JuanProject\obj\Debug\net6.0\ref\JuanProject.dll
+C:\Users\Togrul\Desktop\Tasklar\lab1\JuanTemplate\JuanProject\bin\Debug\net6.0\libman.json

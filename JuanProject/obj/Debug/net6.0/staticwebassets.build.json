@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3cGh1iblAlSaqwrywGGclkZWYr6TzfwuB9CuTTnj93w=",
+  "Hash": "uygjsHaU0v1iUq0jLK4TL8JkyqtuFTRi/J8hWykfmo0=",
   "Source": "JuanProject",
   "BasePath": "_content/JuanProject",
   "Mode": "Default",
@@ -3551,6 +3551,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor.js"
+    },
+    {
+      "Identity": "C:\\Users\\Togrul\\Desktop\\Tasklar\\lab1\\JuanTemplate\\JuanProject\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "JuanProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Togrul\\Desktop\\Tasklar\\lab1\\JuanTemplate\\JuanProject\\wwwroot\\",
+      "BasePath": "_content/JuanProject",
+      "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     }
   ]
 }
