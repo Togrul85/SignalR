@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qckGlRPTUrFSUTn1uZ7m1Wdn4cl8URWNNe86uc5SdNzSFMSKlHgOeOsFHW3pPMlDyaHoaYcvbVm5n0O58fQDUw==",
+  "dgSpecHash": "Zy0fK9tGDKsiiRprgxjEN6EIPyOSRnZ8NDflWOlEb6p9EA58SdPU91OF+aPg5T/HEEvlXQOZTJIjzb0q7butfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\Tasklar\\lab1\\JuanTemplate\\JuanProject\\JuanProject.csproj",
+  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\clone\\SignalR\\JuanProject\\JuanProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Togrul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Togrul\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

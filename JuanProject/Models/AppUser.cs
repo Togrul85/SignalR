@@ -7,7 +7,7 @@ namespace JuanProject.Models
         public string FullName { get; set; }
 
         public List<Comment> Comments { get; set; }
-
+        public string ConnectionId { get; set; }    
 
     }
 }

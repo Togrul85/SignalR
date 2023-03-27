@@ -10020,11 +10020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Togrul\\Desktop\\Tasklar\\lab1\\JuanTemplate\\JuanProject\\JuanProject.csproj",
+      "projectUniqueName": "C:\\Users\\Togrul\\Desktop\\clone\\SignalR\\JuanProject\\JuanProject.csproj",
       "projectName": "JuanProject",
-      "projectPath": "C:\\Users\\Togrul\\Desktop\\Tasklar\\lab1\\JuanTemplate\\JuanProject\\JuanProject.csproj",
+      "projectPath": "C:\\Users\\Togrul\\Desktop\\clone\\SignalR\\JuanProject\\JuanProject.csproj",
       "packagesPath": "C:\\Users\\Togrul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Togrul\\Desktop\\Tasklar\\lab1\\JuanTemplate\\JuanProject\\obj\\",
+      "outputPath": "C:\\Users\\Togrul\\Desktop\\clone\\SignalR\\JuanProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
