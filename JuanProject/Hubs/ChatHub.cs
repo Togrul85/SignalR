@@ -19,12 +19,14 @@ namespace JuanProject.Hubs
             await Clients.All.SendAsync("ReceiveMessage",user, message);
         }
 
-        public override Task OnConnectedAsync()
+        public override async Task<Task> OnConnectedAsync()
         {
             if (Context.User.Identity.IsAuthenticated)
             {
                 AppUser user = _userManager.FindByNameAsync(Context.User.Identity.Name).Result;
                 user.ConnectionId = Context.ConnectionId;
+                var result = _userManager.UpdateAsync(user).Result;
+            await Clients.All.SendAsync("UserOnline", $"{user.Id} li user connect oldu");
             }
             return base.OnConnectedAsync();
         }
